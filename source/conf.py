@@ -21,7 +21,7 @@
 project = 'Python for Data Analysis'
 copyright = '2019, Shaofei Wang'
 author = 'Shaofei Wang'
-
+master_doc = 'index'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
