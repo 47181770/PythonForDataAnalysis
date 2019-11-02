@@ -2,7 +2,7 @@
 Python 数据分析目录
 ===================
 
-- 作者: 大海（Shaofei Wang）
+- 作者: Shaofei Wang
 - 邮箱: 47181770@qq.com 
 
 .. Tip::
