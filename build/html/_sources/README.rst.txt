@@ -2,6 +2,21 @@
 Python 数据分析目录
 ===================
 
+- 作者: 王少飞  
+- 邮箱: 47181770@qq.com 
+- 微信: 47181770   
+
+.. Tip::
+   感兴趣可以联系作者，微信47181770!
+
+
+.. image:: _static/wsf.jpg
+   :height: 369
+   :width: 260
+   :scale: 50
+   :alt: alternate text
+   :align: center
+
 - 分三章节：
 
 - Python数据结构

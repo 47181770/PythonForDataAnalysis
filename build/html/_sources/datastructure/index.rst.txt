@@ -11,9 +11,7 @@
 
    datastructure.rst
 
-Indices and tables
+参考资源
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+[1] Python for Everyone
+[2] Python 技术参考

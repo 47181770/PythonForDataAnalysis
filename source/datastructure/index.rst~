@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-一、数据结构文档!
+一、数据结构
 ====================================================
 
 .. toctree::
@@ -11,9 +11,7 @@
 
    datastructure.rst
 
-Indices and tables
+参考资源
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. [1] Python for Everyone
+.. [2] Python 技术参考
