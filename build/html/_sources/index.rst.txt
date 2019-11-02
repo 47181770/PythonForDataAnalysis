@@ -16,7 +16,6 @@ Welcome to Python for Data Analysis's documentation!
    DataAnalysisandOperation/index
 
 Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`

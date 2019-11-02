@@ -12,6 +12,8 @@
    datastructure.rst
 
 参考资源
-==================
-[1] Python for Everyone
-[2] Python 技术参考
+
+ [1] Python for Everyone
+ [2] Python 技术参考
+
+

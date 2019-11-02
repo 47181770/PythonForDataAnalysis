@@ -8,6 +8,7 @@ Welcome to Python for Data Analysis's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
    README.rst
    datastructure/index
